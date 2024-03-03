@@ -16,7 +16,7 @@ export const styles = StyleSheet.create({
         padding: 10,
         borderRadius: 10,
         marginHorizontal: 5,
-        marginVertical: 10,
+        marginVertical: 30,
     },
     text: {
         color: 'black',
