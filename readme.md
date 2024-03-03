@@ -29,7 +29,7 @@ Após a gravação de um vídeo, o aplicativo oferece três opções:
 Para instalar e executar o aplicativo, primeiro clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/app-camera.git
+git clone https://github.com/edwinbustillos/app-camera-react-native.git
 cd app-camera
 npm install
 ```
